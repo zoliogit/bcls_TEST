@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "bcls_TEST", ".", "{FC16AD67-3CA9-4274-908B-964EB002D715}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/bcls_TEST"
+		Debug.AspNetCompiler.PhysicalPath = "..\bcls_TEST\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\bcls_TEST\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/bcls_TEST"
+		Release.AspNetCompiler.PhysicalPath = "..\bcls_TEST\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\bcls_TEST\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51378"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC16AD67-3CA9-4274-908B-964EB002D715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC16AD67-3CA9-4274-908B-964EB002D715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,170 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="-1" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .center
+        {
+            margin-left: auto;
+            margin-right: auto;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 689px;
+        }
+        .style1
+        {
+            width: 100%;
+            border-collapse: collapse;
+            border-spacing: 0;
+            margin: 0;
+            padding: 0;
+        }
+        .styleBB
+        {
+            margin-left: auto;
+            margin-right: auto;
+            font-family: Arial, Helvetica, sans-serif;
+            height: 1px;
+        }
+        .styleAA
+        {
+            margin-left: auto;
+            margin-right: auto;
+            font-family: Arial, Helvetica, sans-serif;
+            height: 24px;
+        }
+        .styleCC
+        {
+            margin-left: auto;
+            margin-right: auto;
+            font-family: Arial, Helvetica, sans-serif;
+            height: 24px;
+        }
+        .styleDD
+        {
+            width: 217px;
+        }
+        .styleGG
+        {
+            margin-left: auto;
+            margin-right: auto;
+            font-family: Arial, Helvetica, sans-serif;
+            height: 477px;
+        }
+        .style69
+        {
+            height: 30px;
+        }
+        .style70
+        {
+            margin-left: auto;
+            margin-right: auto;
+            font-family: Arial, Helvetica, sans-serif;
+            height: 31px;
+        }
+        body, html
+        {
+            height: 100%;
+            width: 100%;
+        }
+        #right
+        {
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="style1" align="center">
+            <tr>
+                <td bgcolor="#f7f6f3" valign="top" align="center" rowspan="12" class="styleDD">
+                    <div style="background-color: White; width: 237px; height: 89px; margin-top: 0px;"
+                        align="center">
+                        <br />
+                        <br />
+                        <img src="images/NPHSlogoTransparentBig.png" style="width: 220px; height: 43px" /><br />
+                    </div>
+                    <div style="height: 3px; width: 237px; background-color: #98272d">
+                    </div>
+                    <br />
+                    <br />
+                    <br />
+                    <div id="left_buttons" style="size: auto;">
+                        <asp:ImageButton ID="bt_session_details" runat="server" Width="200px" Height="35px"
+                            ImageUrl="~/images/BtnSessionDetails.png" CausesValidation="False" OnClick="bt_session_details_Click" /><p />
+                        <%-- <div style ="height :10px;"></div> --%>
+                        <asp:ImageButton ID="bt_createtest" ImageUrl="~/images/BtnCreateSession.png" runat="server"
+                            Width="200px" Height="35px" CausesValidation="False" OnClick="bt_createtest_Click" />
+                        <%-- <div style ="height :10px;"></div> --%>
+                        <p />
+                        <asp:ImageButton ID="bt_details" runat="server" ImageUrl="~/images/BtnStaffDetails.png"
+                            Width="200px" Height="35px" CausesValidation="False" OnClick="bt_staff_details_Click" />
+                        <%--  <div style ="height :10px;"></div> --%>
+                        <p />
+                        <asp:ImageButton ID="bt_pasttest" ImageUrl="~/images/BtnPastSessions.png" runat="server"
+                            Width="200px" Height="35px" CausesValidation="False" OnClick="bt_past_test_Click" />
+                        <%-- <div style ="height :10px;"></div>  --%>
+                        <p />
+                        <asp:ImageButton ID="bt_questionbank" runat="server" ImageUrl="~/images/BtnQuestionBank.png"
+                            Width="200px" Height="35px" CausesValidation="False" OnClick="bt_question_bank_Click" />
+                        <%--<div style ="height :10px;"></div>  --%>
+                        <p />
+                        <asp:ImageButton ID="bt_task_to_do" Visible="false" runat="server" ImageUrl="~/images/BtnWorkbench.png"
+                            Width="200px" Height="35px" CausesValidation="False" OnClick="bt_tasks_to_do_Click" />
+                        <p />
+                        <asp:ImageButton ID="bt_attendance" runat="server" Width="200px" Height="35px" ImageUrl="~/images/BtnWorkbench.png"
+                            CausesValidation="False" OnClick="bt_reports_Click" />
+                        <%-- <div style ="height :10px;"></div>   --%>
+                        <p />
+                        <asp:ImageButton ID="Button3" runat="server" Height="32px" Width="130px" ImageUrl="~/images/BtnLogout.png"
+                            CausesValidation="False" OnClick="Button3_Click" />
+                    </div>
+                    <br />
+                    <br />
+                    <br />
+                    <asp:Label ID="Label5" runat="server" ForeColor="Black" Text="Logged In at" Font-Bold="False"
+                        Font-Names="Arial" Width="112px"></asp:Label>
+                    <br />
+                    <asp:Label ID="lb_logintime" runat="server" Text="Label" ForeColor="Black" Font-Names="Arial"
+                        Height="19px" Font-Bold="False" Width="237px"></asp:Label>
+                    <br />
+                    <br />
+                    <asp:Label ID="Label10" runat="server" Font-Bold="False" ForeColor="Black" Style="font-family: Arial, Helvetica, sans-serif;
+                        float: left" Text="V2.0"></asp:Label>
+                    <div style="height: 30px;">
+                    </div>
+                </td>
+                <td align="center" class="styleAA" style="background-image: url('images/navigationBar.png');">
+                    <asp:Label ID="Label3" runat="server" Font-Bold="False" Font-Size="XX-Large" Font-Strikeout="False"
+                        ForeColor="#F9FAFA" Text="CPRact" Font-Names="Arial"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td class="styleCC" bgcolor="#efa237">
+                    <asp:Label ID="lb_welcome" runat="server" Text="Label" Font-Bold="False" Style="margin-left: 10px"
+                        ForeColor="Black" Font-Names="Arial"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#F7F6F3" class="styleCC">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

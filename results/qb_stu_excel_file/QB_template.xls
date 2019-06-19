@@ -1,0 +1,125 @@
+<div>
+	<table cellspacing="2" cellpadding="4" rules="all" border="1" id="ContentPlaceHolder1_GridView1" style="color:#333333;width:809px;margin-left: 0px; top: 319px; left: 532px; width: 769px;">
+		<tr style="color:White;background-color:White;font-weight:bold;">
+			<th align="center" valign="middle" scope="col" style="background-color:#98272D;"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$GridView1&#39;,&#39;Sort$task_type&#39;)" style="color:White;">QNO</a></th><th align="center" valign="middle" scope="col" style="background-color:#98272D;"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$GridView1&#39;,&#39;Sort$category&#39;)" style="color:White;">Category</a></th><th align="center" valign="middle" scope="col" style="background-color:#98272D;">Question</th><th align="center" valign="middle" scope="col" style="background-color:#98272D;">Answer1</th><th align="center" valign="middle" scope="col" style="background-color:#98272D;">Answer2</th><th align="center" valign="middle" scope="col" style="background-color:#98272D;">Answer3</th><th align="center" valign="middle" scope="col" style="background-color:#98272D;">Correct Answer</th>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q1</td><td align="center">2</td><td align="center">The universal distress signal for foreign body airway obstruction is when a person clutches the</td><td align="center">Chest with both hands</td><td align="center">Stomach with both hands</td><td align="center">Neck with the thumb and fingers</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q10</td><td align="center">3</td><td align="center">Pulse check for an infant is best done at the</td><td align="center">Carotid artery</td><td align="center">Branchial artery</td><td align="center">Femoral artery</td><td align="center">2</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q11</td><td align="center">1</td><td align="center">Gastric distension is caused by</td><td align="center">Low volume of airtoo fast inspiratory flow rate</td><td align="center">High volume of airtoo fast inspiratory flow rate</td><td align="center">Medium volume of airtoo slow inspiratory flow</td><td align="center">2</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q12</td><td align="center">0</td><td align="center">You have been informed by your neighbour that her aged father has chest pain and shortness of breath your first action will be to</td><td align="center">Advice her father to take relief medication</td><td align="center">Recognise any early warning signs of heart attack</td><td align="center">Advice her to contact her fathers usual GP</td><td align="center">2</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q13</td><td align="center">5</td><td align="center">The chain survival model comprises of early access to</td><td align="center">Emergency services basic life support advanced care defibrillation</td><td align="center">Emergency services basic life support defibrillation advanced care</td><td align="center">Basic life support emergency services defibrillation advanced care</td><td align="center">1</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q14</td><td align="center">1</td><td align="center">The recommended technique for checking the carotid artery is to use the pulps of</td><td align="center">Index and little fingers</td><td align="center">Index and middle fingers</td><td align="center">Index middlle and ring finger</td><td align="center">2</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q15</td><td align="center">1</td><td align="center">To determine unresponsiveness in an unconscious victim that you found by road side you should</td><td align="center">Tap the victims shoulder gently</td><td align="center">Shake the victims body vigorously</td><td align="center">Commence cardiopulmonary resuscitaion</td><td align="center">1</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q16</td><td align="center">1</td><td align="center">Affter 2mins of CPR for an adult victim with cardiac arrest pulse check showed that the victim did not have pulse. What is your next step?</td><td align="center">Give rescue breathing</td><td align="center">Apply precordial thumb</td><td align="center">Continue chest compression</td><td align="center">3</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q17</td><td align="center">5</td><td align="center">When performing external chest compression on an adult victim the sternum sholud be depressed to a depth of</td><td align="center">3</td><td align="center">5</td><td align="center">7</td><td align="center">2</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q18</td><td align="center">5</td><td align="center">The external chest compression rate for one rescuer CPR is approximately</td><td align="center">90 beats per minute</td><td align="center">100 beats per minute</td><td align="center">120 beats per minute</td><td align="center">2</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q19</td><td align="center">1</td><td align="center">The volume of air required in an adult for rescue breathing is</td><td align="center">400 to 600ml</td><td align="center">400 to 1000ml</td><td align="center">800 to 1200ml</td><td align="center">1</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q2</td><td align="center">5</td><td align="center">In activating the EMS system The num to dial is?</td><td align="center">911</td><td align="center">995</td><td align="center">999</td><td align="center">2</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q20</td><td align="center">2</td><td align="center">After inspecting the mouth followed by a finger sweep to remove the object causing airway obstruction in a victim The rescuer should</td><td align="center">Turn the victim&#39;s head to the side</td><td align="center">Place the victim in the recovery position side</td><td align="center">Open the airwaycheck for breathing and try to ventilate</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q21</td><td align="center">2</td><td align="center">If airway obstruction is suspected and one attempt to ventilate is not successful Your next intervention is to</td><td align="center">Deliver 5 back blows</td><td align="center">Deliver 30 chest thrusts</td><td align="center">Reposition the head and re-attempt to ventilate</td><td align="center">3</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q22</td><td align="center">2</td><td align="center">To confirm that the airway is patent after you have done a finger sweep following 30 chest compressions in an adult unconscious victim with airway obstruction You would</td><td align="center">Give one ventilation.</td><td align="center">Look listen and feel for breathing.</td><td align="center">Watch for rise and fall of the chest.</td><td align="center">2</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q23</td><td align="center">3</td><td align="center">If you are alone with an infant with cardiopulmonary arrest You would activate the EMS after --- minutes of cardiopulmonary resuscitation</td><td align="center">2</td><td align="center">5</td><td align="center">10</td><td align="center">1</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q24</td><td align="center">3</td><td align="center">The pulse of an infant suspected to be in cardiac arrest should be checked</td><td align="center">Before ventilations are given.</td><td align="center">After the first two ventilations.</td><td align="center">Immediately after opening the airway.</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q25</td><td align="center">3</td><td align="center">When you have confirmed that the infant is not breathing Your next step is to</td><td align="center">Open the airway.</td><td align="center">Perform rescue breathing.</td><td align="center">Perform chest compressions.</td><td align="center">2</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q26</td><td align="center">3</td><td align="center">The appropriate number of breaths delivered to an infant who is not breathing is ------------ breaths in one minute</td><td align="center">12</td><td align="center">15</td><td align="center">20</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q27</td><td align="center">3</td><td align="center">The duration of the two rescue breaths performed in an unconscious infant who is not breathing is</td><td align="center">1 second per breath.</td><td align="center">2 seconds per breath.</td><td align="center">3 seconds per breath.</td><td align="center">1</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q28</td><td align="center">4</td><td align="center">If an unconscious infant has complete airway obstruction The rescuer should perform</td><td align="center">Five back blows followed by five chest thrusts.</td><td align="center">Five back blows followed by five abdominal thrusts.</td><td align="center">Thirty chest compressions followed by mouth check.</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q29</td><td align="center">4</td><td align="center">A finger sweep is done to remove foreign body in an infant</td><td align="center">Only if one can see the foreign body.</td><td align="center">Before back blows and chest thrusts manoeuvre.</td><td align="center">Routinely after back blows and chest thrusts manoeuvre.</td><td align="center">1</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q3</td><td align="center">0</td><td align="center">The second most common cause of death in singapore ?</td><td align="center">Cardiac arrest</td><td align="center">Cancer</td><td align="center">Fever</td><td align="center">1</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q30</td><td align="center">3</td><td align="center">After performing CPR on the infant for two minutes You conduct a pulse check. If pulse is present You would proceed to</td><td align="center">Assess for breathing.</td><td align="center">Perform rescue breathing.</td><td align="center">Place the infant in the lateral position.</td><td align="center">1</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q31</td><td align="center">0</td><td align="center">A weak or missing link in the chain of survival will give rise to</td><td align="center">Inadequate circulation.</td><td align="center">Poor chances of survival.</td><td align="center">Good success of resuscitation.</td><td align="center">2</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q32</td><td align="center">0</td><td align="center">The very first action to take when witnessing a victim with cardiac arrest is to</td><td align="center">activate the EMS.</td><td align="center">Give two ventilations.</td><td align="center">Start chest compressions.</td><td align="center">1</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q33</td><td align="center">1</td><td align="center">The purpose of look Listen and feel while observing the victim&#39;s chest is to determine the</td><td align="center">presence of spontaneous breathing.</td><td align="center">Absence of spontaneous breathing.</td><td align="center">Presence or absence of spontaneous breathing.</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q34</td><td align="center">1</td><td align="center">The rescuer attempts to revive a victim by performing CPR when the victim</td><td align="center">Is pale and cyanosed.</td><td align="center">Has shallow respiration.</td><td align="center">Has no respiration and pulse.</td><td align="center">3</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q35</td><td align="center">1</td><td align="center">The most common cause of airway obstruction is by the</td><td align="center">Tonsil and the cricoid cartilage.</td><td align="center">Soft palate and the nasophaynx.</td><td align="center">Tongue and the soft tissue of the pharynx.</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q36</td><td align="center">1</td><td align="center">Victims with suspected neck injuries should have their airways opened using the</td><td align="center">Jaw thrust maneuver.</td><td align="center">Head tilt chain lift maneuver.</td><td align="center">Head tilt neck lift maneuver</td><td align="center">1</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q37</td><td align="center">1</td><td align="center">Rescue breathing for adults should be delivered at a rate of ------ breaths per minute</td><td align="center">8</td><td align="center">12</td><td align="center">20</td><td align="center">2</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q38</td><td align="center">1</td><td align="center">For effective cardiopulmonary resuscitation The victim must be in a supine position with the body</td><td align="center">On a firm and flat surface.</td><td align="center">And head turned to one side.</td><td align="center">Flat and head slightly elevated.</td><td align="center">1</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q39</td><td align="center">1</td><td align="center">The purpose of recovery position is that the victim&#39;s airway is less likely to be</td><td align="center">Patent and but secretions are unable to flow out.</td><td align="center">Obstructed and secretions are able to be flow out.</td><td align="center">None of the above.</td><td align="center">2</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q4</td><td align="center">0</td><td align="center">If cardiac arrest is untreated Irreversible brain damage begin within</td><td align="center">4 to 6minutes</td><td align="center">5 to 10 minutes</td><td align="center">10 to 15minutes</td><td align="center">3</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q40</td><td align="center">1</td><td align="center">After the return pulse in one rescuer CPR The victim should be assessed for</td><td align="center">Consciousness.</td><td align="center">Patency of airway.</td><td align="center">Spontaneous breathing.</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q41</td><td align="center">2</td><td align="center">The Heimlich manoeuvre is only performed on a victim who</td><td align="center">Tells you that he/she is choking.</td><td align="center">Is able to cough but cannot speak.</td><td align="center">Is unable to cough speak or breathe.</td><td align="center">3</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q42</td><td align="center">2</td><td align="center">You are asked to attend to a conscious pregnant lady with an airway obstruction. Which of the following is most appropriate in dislodging the foreign body?</td><td align="center">Back blows.</td><td align="center">Chest thrusts.</td><td align="center">Abdominal thrusts.</td><td align="center">2</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q43</td><td align="center">2</td><td align="center">Chest compression Performed on an unconscious adultvictim with complete airway obstruction Is to depress the sternum down at</td><td align="center">4 to 5cm.</td><td align="center">5 to 6cm.</td><td align="center">7 to 8cm.</td><td align="center">1</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q44</td><td align="center">2</td><td align="center">In an adult victim with airway obstruction The abdominal thrusts should be repeated</td><td align="center">Until help arrives.</td><td align="center">Every five seconds..</td><td align="center">Until the foreign body is expelled.</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q45</td><td align="center">1</td><td align="center">If the victim starts breathing or resumes effective breathing</td><td align="center">Activate the EMS.</td><td align="center">Place victim in recovery position.</td><td align="center">Place the victim in supine position.</td><td align="center">2</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q46</td><td align="center">3</td><td align="center">The purpose of performing head tilt and chin lift when the infant is not breathing is to</td><td align="center">Open the airway.</td><td align="center">Listen for breath sounds.</td><td align="center">Perform foreign body check.</td><td align="center">1</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q47</td><td align="center">3</td><td align="center">The most reliable indicator of effective rescue breathing in an infant is the</td><td align="center">Rise and fall of infant&#39;s chest.</td><td align="center">Change in the infant&#39;s colour.</td><td align="center">Absence of resistance to airflow.</td><td align="center">1</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q48</td><td align="center">3</td><td align="center">What is the compression to ventilation ratio for an infant resuscitation</td><td align="center">05:01</td><td align="center">15:02</td><td align="center">30:02:00</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q49</td><td align="center">3</td><td align="center">In an infant when the breathing is absent but the pulse is present You should provide rescue breathing once in every ------ seconds.</td><td align="center">3</td><td align="center">4</td><td align="center">5</td><td align="center">1</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q5</td><td align="center">1</td><td align="center">The time taken to look listen and feel the victims of chest ?</td><td align="center">2 to 3seconds</td><td align="center">3 to 5 seconds</td><td align="center">Upto 10 seconds</td><td align="center">2</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q50</td><td align="center">3</td><td align="center">Which of the following statement is TRUE regarding chest compression in infant resuscitation?</td><td align="center">The infant should be in the lateral position.</td><td align="center">The infant&#39;s chest is depressed to a depth of 3 to 4 cm.</td><td align="center">The chest is depressed with the middle and ring finger.</td><td align="center">3</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q51</td><td align="center">3</td><td align="center">If you are unable to detect a brachial pulse in an unconscious infant You should</td><td align="center">Activate EMS.</td><td align="center">Check for femoral pulse.</td><td align="center">begin chest compressions.</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q52</td><td align="center">3</td><td align="center">When performing the head tilt Chin lift manoeuvre in an infant The rescuer should</td><td align="center">Hyperextended the head to ensure an adequate airway.</td><td align="center">Not hyperextended the head to avoid kinking the airway.</td><td align="center">Hyperextended the head to prevent the tongue from occluding the airway.</td><td align="center">2</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q53</td><td align="center">3</td><td align="center">The potential complications of over-inflating the lungs of an infant include all of the following EXCEPT</td><td align="center">Rupture arota.</td><td align="center">Impaired ventilation.</td><td align="center">Aspiration of gastric content.</td><td align="center">1</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q54</td><td align="center">5</td><td align="center">What does CPR stand for?</td><td align="center">Cerebro- Pelvic Rescue</td><td align="center">Cardiac- Physical Resuscitation</td><td align="center">Cardio- Pulmonary Resuscitation</td><td align="center">3</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q55</td><td align="center">5</td><td align="center">What do the letters A, B and C stand for in CPR?</td><td align="center">Abdomen, Breathing, Collapse</td><td align="center">Anatomy, Biology, Chemistry</td><td align="center">Airway, Breathing, Circulation</td><td align="center">3</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q56</td><td align="center">5</td><td align="center">You call for an ambulance when someone does not respond to calling loudly and shaking of the shoulders. In addition, what else do you call for?</td><td align="center">Call 911</td><td align="center">Call the relatives</td><td align="center">Get AED</td><td align="center">3</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q57</td><td align="center">5</td><td align="center">How many ventilations must be given for every 30 chest compressions?</td><td align="center">1</td><td align="center">2</td><td align="center">5</td><td align="center">2</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q58</td><td align="center">5</td><td align="center">For an adult, where should the palm of the hand be placed when performing chest compressions? On the</td><td align="center">left side of the chest</td><td align="center">centre of the breast bone</td><td align="center">lower half of the breast</td><td align="center">3</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q59</td><td align="center">5</td><td align="center">How do we count chest compressions in Singapore while doing CPR?</td><td align="center">one one-thousand, two one-thousand, three one- thousand and so on</td><td align="center">1 and 2 and 3 and 4 and 5 and 1 and 2 and 3 and 4 and 10 and 1 and 2 and 3 and 4 and 15, 1 and 2 and 3 and 4 and 20, 1 and 2 and 3 and 4 and 25, 1 and 2 and 3 and 4 and 30.</td><td align="center">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16 and so on till 30</td><td align="center">2</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q6</td><td align="center">1</td><td align="center">Time taken to perform pulse checkup ?</td><td align="center">3 seconds</td><td align="center">5 seconds</td><td align="center">10 seconds</td><td align="center">3</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q7</td><td align="center">2</td><td align="center">For an unconsious adult victim with complete airway obstruction The rescure should</td><td align="center">Deliver five back blows</td><td align="center">Deliver thirty chest compressions</td><td align="center">Administator five abdominal thrusts</td><td align="center">2</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="center">Q8</td><td align="center">1</td><td align="center">CPR is discontinued when</td><td align="center">It is requested by significant others</td><td align="center">It is an order from the police officer</td><td align="center">There is return pulse and respiration</td><td align="center">3</td>
+		</tr><tr style="color:Black;background-color:#F7F6F3;">
+			<td align="center">Q9</td><td align="center">4</td><td align="center">Post resuscitation the infant is placed in the lateral position to</td><td align="center">Promote an open airway</td><td align="center">Enhance drainage secretion</td><td align="center">All of the above</td><td align="center">2</td>
+		</tr>
+	</table>
+</div>
