@@ -217,17 +217,17 @@
                             </asp:BoundField>
                             
                                                
-                 <asp:BoundField DataField="percent_score_sim2" ItemStyle-HorizontalAlign="Left" HeaderText="SIM2- %" Visible="false"
+                 <asp:BoundField DataField="percent_score_sim2" ItemStyle-HorizontalAlign="Left" HeaderText="CON2- %" 
                                 HeaderStyle-BackColor="#98272d" SortExpression="percent_score_sim2" ReadOnly="true">
                                 <HeaderStyle HorizontalAlign="Center" VerticalAlign="Middle" />
                                 <ItemStyle HorizontalAlign="left"></ItemStyle>
                             </asp:BoundField>
-                            <asp:BoundField DataField="edited_score_remarks_sim2" ItemStyle-HorizontalAlign="Left" HeaderText="SIM2- Comments" Visible="false"
+                            <asp:BoundField DataField="edited_score_remarks_sim2" ItemStyle-HorizontalAlign="Left" HeaderText="CON2- Comments" 
                                 HeaderStyle-BackColor="#98272d" SortExpression="edited_score_remarks_sim2" ReadOnly="true">
                                 <HeaderStyle HorizontalAlign="Center" VerticalAlign="Middle" />
                                 <ItemStyle HorizontalAlign="left"></ItemStyle>
                             </asp:BoundField>
-                            <asp:BoundField DataField="submitted_staff_sim2" ItemStyle-HorizontalAlign="Left" HeaderText="SIM2- Submitted By" Visible="false"
+                            <asp:BoundField DataField="submitted_staff_sim2" ItemStyle-HorizontalAlign="Left" HeaderText="CON2- Submitted By" 
                                 HeaderStyle-BackColor="#98272d" SortExpression="submitted_staff_sim2" ReadOnly="true">
                                 <HeaderStyle HorizontalAlign="Center" VerticalAlign="Middle" />
                                 <ItemStyle HorizontalAlign="left"></ItemStyle>

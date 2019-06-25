@@ -351,13 +351,13 @@ onrowupdating="UpdateStudent"  onrowcancelingedit="CancelEdit"  OnRowDataBound="
                           </FooterTemplate>
                           </asp:TemplateField>
                             
-                                 <asp:TemplateField ItemStyle-Width = "70px" HeaderStyle-BackColor="#98272d" ItemStyle-HorizontalAlign="Center" HeaderText = "SIM2- %" Visible="false">
+                                 <asp:TemplateField ItemStyle-Width = "70px" HeaderStyle-BackColor="#98272d" ItemStyle-HorizontalAlign="Center" HeaderText = "CON2- %" >
                              <ItemTemplate>
-                             <asp:Label ID="lblsim2" runat="server" Visible="false"
+                             <asp:Label ID="lblsim2" runat="server" 
                              Text='<%# Eval("percent_score_sim2")%>'></asp:Label>
                             </ItemTemplate>
                             <EditItemTemplate>
-                            <asp:TextBox ID="txtsim2" runat="server" Visible="false"
+                            <asp:TextBox ID="txtsim2" runat="server" 
                             Text='<%# Eval("percent_score_sim2")%>'></asp:TextBox>
                             
                              <asp:RangeValidator ID="RangeValidator2" runat="server" ControlToValidate="txtsim2"
@@ -367,11 +367,11 @@ onrowupdating="UpdateStudent"  onrowcancelingedit="CancelEdit"  OnRowDataBound="
                             
                            </EditItemTemplate> 
                           <FooterTemplate>
-                          <asp:TextBox ID="txtsim2" runat="server" Visible="false"></asp:TextBox>
+                          <asp:TextBox ID="txtsim2" runat="server"></asp:TextBox>
                           </FooterTemplate>
                           </asp:TemplateField>
                           
-                             <asp:TemplateField ItemStyle-Width = "70px" HeaderStyle-BackColor="#98272d" ItemStyle-HorizontalAlign="Center" HeaderText = "SIM2- Comments" Visible="false">
+                             <asp:TemplateField ItemStyle-Width = "70px" HeaderStyle-BackColor="#98272d" ItemStyle-HorizontalAlign="Center" HeaderText = "CON2- Comments" >
                              <ItemTemplate>
                              <asp:Label ID="lblsim2_remarks" runat="server" 
                              Text='<%# Eval("edited_score_remarks_sim2")%>' Visible="false"></asp:Label>

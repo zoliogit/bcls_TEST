@@ -103,7 +103,7 @@ public partial class NSL_MasterPage : System.Web.UI.MasterPage
         else if (selected_version == "5")  //means v1.1
         {
             bt_sim1.ImageUrl = "images/consolidation1.png";
-            Button2.Visible = false;//not given now 
+            Button2.ImageUrl = "images/consolidation2.png";
             Button4.Visible = false;//not given now 
             Button5.Visible = false;//mgc
             Label3.Text = "SIMPract V1.1";
@@ -235,6 +235,10 @@ public partial class NSL_MasterPage : System.Web.UI.MasterPage
         else if (selected_version == "3")
         {
             Response.Redirect("NSL_Simulation_v2_2.aspx");
+        }
+        else if (selected_version == "5")
+        {
+            Response.Redirect("NSL_Simulation_v1_1.aspx");
         }
     }
     protected void bt_sim3_Click(object sender, ImageClickEventArgs e)
