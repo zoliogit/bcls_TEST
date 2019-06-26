@@ -454,7 +454,7 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 					  Perform hand hygiene.
 					</td>
 					<td align="left">
-					   Perform 7 steps and follow 5 moments.
+					 Perform 7 steps and adhere to the 5 moments.
 					</td>
 					<td  colspan="5" align="center" >
                

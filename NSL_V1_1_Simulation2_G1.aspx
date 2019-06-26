@@ -328,16 +328,14 @@ function highlightListControl(elementRef, foreColor, backColor)
              
               <tr>
                 <td align="left" colspan="11" class="styleCC" style="text-align:justify">
-               Brief Summary: <br />
- Madam Letchumi, 72-years-old, with chief complain of cough and fever for one week was sdmitted to hospital. She was diagnosed with chest infection (qureies Pulmonary Tuberculosis) and had medical history of difficulty in swollowing, on nectar consistency for fluid. 
- <br /> <br />Group tasks:
- <br />Nurse 1: Don and remove PPE (personal protective equipments).
- <br />Nurse 2 & 3 : Perform MRSA swab (nasal, axilla & groin) and turn the pateint from supine to left lateral position.
- <br />Nurse 4: Take pain score, SpO2 level and document in the clinical chart.
- <br />Nurse 5: Prepare 200 ml of water with nectar consistency for the patient.
+
  
- 
- 
+ Brief Summary:<br /> Madam Letchumi, 72-years-old, with chief complaint of cough and fever for the last three weeks was admitted to the hospital. She was diagnosed with chest infection (suspected Pulmonary Tuberculosis). She had medical history of difficulty in swallowing, on nectar consistency for fluid. 
+<br /><br />Group tasks:
+<br />Nurse 1: Don and remove PPE (personal protective equipments).
+<br />Nurse 2 & 3 : Perform MRSA swab (nasal, axilla & groin) and change patient to hospital clothes.
+<br />Nurse 4: Assist patient to apply deep breathing and coughing correctly.
+<br />Nurse 5: Prepare 100 ml of water with nectar consistency for the patient.
                 </td>
             </tr>
              <tr bgcolor="#98272D" >
@@ -452,7 +450,7 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 					  Perform hand hygiene.
 					</td>
 					<td align="left">
-					   Perform 7 steps and follow 5 moments.
+					 Perform 7 steps and adhere to the 5 moments.
 					</td>
 					<td  colspan="5" align="center" >
                
@@ -903,10 +901,9 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 				<tr>
 					<td>15</td>
 					
-					<td align="left" rowspan="3">Apply proper turning and positioning techniques
+					<td align="left" rowspan="2">Change patient to hospital clothes
 					</td>
-					<td align="left" >Roll the patient to side-lying (left lateral) position. Ensure patient is comfortable by placing the pillows to support patient's head and arms.</td>
-					
+					<td align="left" >Performed changing of clothes without causing injury and shearing of patient's skin. </td>
 					<td  colspan="5" align="center" >
                
 						<asp:RadioButtonList RepeatColumns="5" class="style_radio"   
@@ -936,7 +933,7 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 				<tr>
 					<td>16</td>
 					
-					<td align="left">Performed turning without causing injury and shearing of patient's skin. 
+					<td align="left">Safe and proper body alignment and movements were achieved for patient and nurses during the positioning. 
 					</td>
 					<td  colspan="5" align="center" >
                
@@ -968,7 +965,9 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 				<tr>
 					<td>17</td>
 					
-					<td align="left">Safe and proper body alignment and movements were achieved for patient and nurses during the positioning.
+					<td align="left" rowspan="4">Assist patient to apply deep breathing and coughing correctly
+					</td>
+					<td align="left" >Place the patient in upright position and demonstrate the deep breathing steps, allowing time for patient to practice each step.
 					</td>
 					<td  colspan="5" align="center" >
                
@@ -998,10 +997,9 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 				<tr>
 					<td>18</td>
 					
-					<td align="left" rowspan="3">Take pain score, SpO2 level and document  in the clinical chart. 
+					<td align="left">Breathe in deeply through the nose with the mouth closed, to stay relaxed, not to arch the back and to concentrate on feeling the abdomen rise as far as possible. 
 					</td>
-					<td align="left">Accurate SpO2 obtained by applying the probe and connect it to the pulse oximeter and make sure that LED and photo detector are aligned on opposite sides.
-					</td>
+					
 					<td  colspan="5" align="center" >
                
 						<asp:RadioButtonList RepeatColumns="5" class="style_radio"   
@@ -1033,7 +1031,7 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 				<tr>
 					<td>19</td>
 					
-					<td align="left">Assessed pain score using OLDCART (Onset, Loaction, Duration, Characteristics, Aggravating factors, Reliving factors and treatment).
+					<td align="left">Hold the breath for 3–5 seconds and breathe out slowly.
 
 					</td>
 					<td  colspan="5" align="center" >
@@ -1065,7 +1063,7 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 				<tr>
 					<td>20</td>
 					
-					<td align="left">Document  Pain score and SpO2 findings in clinical chart accurately.
+					<td align="left">Encourage the patient to breathe and cough repeatedly if necessary to clear lung fields.
 					</td>
 					<td  colspan="5" align="center" >
                

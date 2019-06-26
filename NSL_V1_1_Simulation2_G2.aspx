@@ -331,13 +331,13 @@ function highlightListControl(elementRef, foreColor, backColor)
               <tr>
                 <td align="left" colspan="11" class="styleCC" style="text-align:justify">
   
- Brief Summary: <br />Miss Anita, 65 years old, complained of burning sensation during her urination and she was admitted to hospital for further investigation. Miss Anita also complains of weakness at both lower limbs. She has the hisotry of MRSA nasal from her previous admission. Dr. had reviewed the patient and ordered the follwoing;
+
+ Brief Summary: <br />Miss Anita, 65 years old, complained of burning sensation during her micturition was admitted to the hospital for further investigation. Miss Anita also complained of bilateral lower limb weakness. She has the history of MRSA nasal from her previous admission. Dr. had reviewed the patient and ordered the following;
 <br /><br />Group tasks:
 <br />Nurse 1: Don and remove PPE (personal protective equipments).
 <br />Nurse 2 & 3 : Perform MRSA swab (nasal, axilla & groin) and turn the pateint from supine to right lateral position.
 <br />Nurse 4: Obtain pain score, SpO2 level and document in the clinical chart.
 <br />Nurse 5: Assist in collecting the urine FEME & CS from the patient.
- 
                 </td>
             </tr>
              <tr bgcolor="#98272D" >
@@ -452,7 +452,7 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 					  Perform hand hygiene.
 					</td>
 					<td align="left">
-					   Perform 7 steps and follow 5 moments.
+					  	 Perform 7 steps and adhere to the 5 moments.
 					</td>
 					<td  colspan="5" align="center" >
                
@@ -1096,9 +1096,9 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 				<tr>
 					<td>21</td>
 					
-					<td align="left" rowspan="2">Prepare nectar consistency thickener fluid for patient.
+					<td align="left" rowspan="2">Assist in collection of urine FEME and CS.
 					</td>
-					<td align="left">Use the correct amount of thickener to prepare the accurate consistency fluid for patient.
+					<td align="left">Assist patient to clean the left and right labia majora, libia minora, clitoris and urethral meatus (one stroke each with friction in front to back pattern down to perineum).
 					</td>
 					<td  colspan="5" align="center" >
                
@@ -1130,7 +1130,7 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 				<tr>
 					<td>22</td>
 					
-					<td align="left">Fluid had been thickened, converted to nectar consistency
+					<td align="left">Collect the mid-stream urine in the respective containers and dispatch all all specimens  labelled with patient's name and IC number in the biohazard bag with request form to the Lab.
 					</td>
 					<td  colspan="5" align="center" >
                

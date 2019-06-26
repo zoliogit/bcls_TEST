@@ -332,14 +332,14 @@ function highlightListControl(elementRef, foreColor, backColor)
              
               <tr>
                 <td align="left" colspan="11" class="styleCC" style="text-align:justify">
-  
- Brief Summary:  <br />Mr. James, 75 years old nursing home resident with hostory of pulmonary tuberculosis. He was admitted due to fever for investigation. 
-<br /><br />Group tasks:
-<br />Nurse 1: Don and remove PPE (personal protective equipments).
-<br />Nurse 2 & 3 : Perform MRSA swab (nasal, axilla & groin) and change patient to hospital clothes.
-<br />Nurse 4: Obtain pain score, SpO2 level and document in the clinical chart.
-<br />Nurse 5: Collect the urine FEME & CS from the patient.
  
+ 
+ Brief Summary:   <br />Mr. James, 35 years old was admitted for chickenpox. His temperature was 38.5°C and complained of muscle aches and a productive cough. 
+ <br /> <br />Group tasks:
+ <br />Nurse 1: Don and remove PPE (personal protective equipments).
+ <br />Nurse 2 & 3 : Perform MRSA swab (nasal, axilla & groin) and change patient to hospital clothes.
+ <br />Nurse 4: Obtain pain score, SpO2 level and document in the clinical chart.
+ <br />Nurse 5: Collect sputum C&S speciemen
  </td>
             </tr>
              <tr bgcolor="#98272D" >
@@ -454,7 +454,7 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 					  Perform hand hygiene.
 					</td>
 					<td align="left">
-					   Perform 7 steps and follow 5 moments.
+					   Perform 7 steps and adhere to the 5 moments.
 					</td>
 					<td  colspan="5" align="center" >
                
@@ -1063,8 +1063,8 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 				<tr>
 					<td>20</td>
 					
-					<td align="left" rowspan="3">Assist in collection of urine FEME and CS.</td>
-					<td align="left" >Assist patient to clean in circular motion from meatus to peripheral glans of penis (clean from clean to dirty area).</td>
+					<td align="left" rowspan="3">Assist in collection of sputum C&S (Culture & Sensitivity)</td>
+					<td align="left" >Assist patient to a standing position or sitting position and instruct patient to take slow and deep inspirations, hold their breath, pause at the end of the inspiration; and then finally end with a cough.</td>
 					
 					<td  colspan="5" align="center" >
                
@@ -1096,7 +1096,7 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 					<td>21</td>
 					
 				
-					<td align="left">Collect the mid-stream urine in the respective containers.
+					<td align="left">Collect the sputum only when the patient is triggered to cough. (Do not ask patient to cough deliberately with force.)
 					</td>
 					<td  colspan="5" align="center" >
                
@@ -1126,7 +1126,7 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 				<tr>
 					<td>22</td>
 					
-					<td align="left">Dispatch all all specimens  labelled with patient's name and IC number in the biohazard bag with request form to the Lab.	</td>
+					<td align="left">Dispatch all all specimens  labelled with patient's name and IC number in the biohazard bag with request form to the Lab.</td>
 					<td  colspan="5" align="center" >
                
 						<asp:RadioButtonList RepeatColumns="5" class="style_radio"   
