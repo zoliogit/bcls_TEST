@@ -970,7 +970,7 @@ or Student Intervention" Font-Bold="True" Font-Size="Large" Font-Names="Arial" F
 					<tr>
 					<td>17</td>
 					
-					<td align="left" rowspan="2">Prepare nectar consistency thickener fluid for patient.
+					<td align="left" rowspan="2">Prepare honey consistency thickener fluid for patient.
 					</td>
 					<td align="left" >Use the correct amount of thickener to prepare the accurate consistency fluid for patient.
 					</td>
