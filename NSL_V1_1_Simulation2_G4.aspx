@@ -310,7 +310,7 @@ function highlightListControl(elementRef, foreColor, backColor)
               <%-- ---------------------------------------------------------------------------------------------%>
                <tr>
                 <td align="left" colspan="11" class="styleCC" bgcolor="#98272D">
-                    <asp:Label ID="Label42" runat="server" Font-Bold="True" Font-Size="Large" Text="Consolidation Skills 2 (Case scenario 1)"
+                    <asp:Label ID="Label42" runat="server" Font-Bold="True" Font-Size="Large" Text="Consolidation Skills 2 (Case scenario 4)"
                         Font-Names="Arial" ForeColor="White"></asp:Label>
                         
                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
