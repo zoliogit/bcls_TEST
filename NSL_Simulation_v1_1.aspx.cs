@@ -291,18 +291,23 @@ public partial class NSL_Simulation_v1_1 : System.Web.UI.Page
                     if ((dr2[1].ToString() == "") || (dr2[1].ToString() == "Option 1"))
                     {
 
-                        Response.Redirect("NSL_V2_1_Simulation2_G1.aspx");
+                        Response.Redirect("NSL_V1_1_Simulation2_G1.aspx");
 
                     }
 
                     else if (dr2[1].ToString() == "Option 2")
                     {
-                        Response.Redirect("NSL_V2_1_Simulation2_G2.aspx");
+                        Response.Redirect("NSL_V1_1_Simulation2_G2.aspx");
 
                     }
                     else if (dr2[1].ToString() == "Option 3")
                     {
-                        Response.Redirect("NSL_V2_1_Simulation2_G3.aspx");
+                        Response.Redirect("NSL_V1_1_Simulation2_G3.aspx");
+
+                    }
+                    else if (dr2[1].ToString() == "Option 4")
+                    {
+                        Response.Redirect("NSL_V1_1_Simulation2_G4.aspx");
 
                     }
 

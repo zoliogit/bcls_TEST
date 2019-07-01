@@ -191,7 +191,7 @@ onselectedindexchanged="dl_practical_group_SelectedIndexChanged">
                                 <ItemStyle HorizontalAlign="left"></ItemStyle>
                             </asp:BoundField>
                             
-                              <asp:BoundField DataField="percent_score_sim2" ItemStyle-HorizontalAlign="Left" HeaderText="SIM2- %" Visible="false"
+                              <asp:BoundField DataField="percent_score_sim2" ItemStyle-HorizontalAlign="Left" HeaderText="CON2- %" 
                                 HeaderStyle-BackColor="#98272d" SortExpression="percent_score_sim2" ReadOnly="true">
                                 <HeaderStyle HorizontalAlign="Center" VerticalAlign="Middle" />
                                 <ItemStyle HorizontalAlign="left"></ItemStyle>

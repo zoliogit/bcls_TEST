@@ -42,14 +42,14 @@ public partial class Login : System.Web.UI.Page
         Session["id"] = null;
         bt_login.ImageUrl = "images/BtnLogin.png";
 
-        tb_loginid.Attributes.Add("autocomplete","off");
+        tb_loginid.Attributes.Add("autocomplete", "off");
         tb_password.Attributes.Add("autocomplete", "off");
 
     }
 
     protected void bt_login_Click(object sender, ImageClickEventArgs e)
     {
-        string userName =hdnfldusername.Value;
+        string userName = hdnfldusername.Value;
         password = hdnfldpassword.Value;
         //string userName = tb_loginid.Text;
         //password = tb_password.Text;
@@ -86,8 +86,8 @@ public partial class Login : System.Web.UI.Page
         SqlCommand cmd = new SqlCommand("select staff_id,staff_name,staff_role,NPstaff from staff_details where staff_id = @STAFF_id  ", con);
         cmd.Parameters.Add(new SqlParameter("STAFF_id", userName));
         SqlDataReader dr = cmd.ExecuteReader();
-   bool password_valid = NPpasswordCheck_BCLS(userName,password);//NP SERVER
-   // bool password_valid = ZTpasswordCheck_BCLS(userName, password);//LOCAL SERVER
+        // bool password_valid = NPpasswordCheck_BCLS(userName,password);//NP SERVER
+        bool password_valid = ZTpasswordCheck_BCLS(userName, password);//LOCAL SERVER
 
         if (dr.HasRows && password_valid) //if username and password is correct
         {
@@ -101,7 +101,7 @@ public partial class Login : System.Web.UI.Page
             cookie.Values.Add("TRXID", (string)Session["CPRactSessionCheck"]);
             cookie.Values.Add("EVSS_ID", Session.SessionID);
             Response.Cookies.Add(cookie);
-           Response.Cookies["CPRactCookieCheck"].Secure = true;//We can enable secure cookie to set true(HTTPs).
+            //        Response.Cookies["CPRactCookieCheck"].Secure = true;//We can enable secure cookie to set true(HTTPs).
 
 
             dr.Read();
@@ -130,12 +130,12 @@ public partial class Login : System.Web.UI.Page
             else//there is a chnace for enter the role through sql query and misspelled
             {
                 Page.ClientScript.RegisterStartupScript(this.GetType(), Guid.NewGuid().ToString(), "alert('Role assignment unsuccessful, please contact techincal support');window.location='Login.aspx';", true);
-                return; 
+                return;
             }
 
             System.Web.SessionState.SessionIDManager manager = new System.Web.SessionState.SessionIDManager();
             string oldId = manager.GetSessionID(Context);
-    //        regenerateId();
+            //        regenerateId();
             Session["staffname"] = s_name;
             Session["staffid"] = s_id;
             Session["staffrole"] = s_role;
@@ -229,12 +229,12 @@ public partial class Login : System.Web.UI.Page
                 {
 
                     DirectoryEntry entry = new DirectoryEntry(@"LDAP://npnet.np.edu.sg", userName, password);
-                 
+
                     try
                     {
                         object obj = entry.NativeObject;
-                      
-                        
+
+
                         return true;
                     }
                     catch (Exception ex)
@@ -340,8 +340,8 @@ public partial class Login : System.Web.UI.Page
         SqlDataReader dr = cmd.ExecuteReader();
 
 
- bool password_valid = obj1.NPpasswordCheck(userName, password); //NP SERVER
-// bool password_valid = obj1.ZTpasswordCheck(userName, password); //LOCAL SERVER
+        //bool password_valid = obj1.NPpasswordCheck(userName, password); //NP SERVER
+        bool password_valid = obj1.ZTpasswordCheck(userName, password); //LOCAL SERVER
 
 
         if (dr.HasRows && password_valid) //if username and password is correct
@@ -355,7 +355,7 @@ public partial class Login : System.Web.UI.Page
             cookie.Values.Add("TRXID", (string)Session["CPRactSessionCheck"]);
             cookie.Values.Add("EVSS_ID", Session.SessionID);
             Response.Cookies.Add(cookie);
-   Response.Cookies["CPRactCookieCheck"].Secure = true;//We can enable secure cookie to set true(HTTPs).
+            //   Response.Cookies["CPRactCookieCheck"].Secure = true;//We can enable secure cookie to set true(HTTPs).
 
 
             dr.Read();
